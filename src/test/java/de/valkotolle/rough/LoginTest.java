@@ -13,6 +13,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 
+		// This is my rough package
 		HomePage home = new HomePage();
 		
 		LoginPage login = home.goToLogin();
