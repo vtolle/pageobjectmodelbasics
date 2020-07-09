@@ -11,7 +11,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 
-		// This is my rough package !!!
+		// Git integration in eclipse project
 		HomePage home = new HomePage();
 		
 		LoginPage login = home.goToLogin();
