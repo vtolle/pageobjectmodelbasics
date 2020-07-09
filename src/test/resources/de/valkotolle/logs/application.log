@@ -1,17 +1,17 @@
-09/07/2020 11:26:50 devpinoyLogger === Setup - Test started ===
-09/07/2020 11:26:50 devpinoyLogger Config file loaded !!!
-09/07/2020 11:26:50 devpinoyLogger OR file loaded !!!
-09/07/2020 11:26:57 devpinoyLogger Navigate to http://www.zoho.com
-09/07/2020 11:27:00 devpinoyLogger Click element: loginlink_CSS
-09/07/2020 11:27:00 devpinoyLogger Typing in an element: email_CSS entered value: vtolle@puppetmail.de
-09/07/2020 11:27:01 devpinoyLogger Click element: nextbtn_CSS
-09/07/2020 11:27:01 devpinoyLogger Typing in an element: password_CSS entered value: vtvtvtvt
-09/07/2020 11:27:01 devpinoyLogger Click element: nextbtn_CSS
-09/07/2020 11:27:15 devpinoyLogger Click element: crmlink_XPATH
-09/07/2020 11:27:18 devpinoyLogger Click element: account_CSS
-09/07/2020 11:27:20 devpinoyLogger Click element: createaccount_CSS
-09/07/2020 11:27:23 devpinoyLogger Typing in an element: accountname_CSS entered value: vtolle
-09/07/2020 11:27:24 devpinoyLogger ****************************************
-09/07/2020 11:27:24 devpinoyLogger *** Function SendMail is deactivated ***
-09/07/2020 11:27:24 devpinoyLogger ****************************************
-09/07/2020 11:27:24 devpinoyLogger messageBody: http://127.0.1.1:8080/job/LiveProject - PageObjectModel/Extent_20Report/
+09/07/2020 11:38:46 devpinoyLogger === Setup - Test started ===
+09/07/2020 11:38:46 devpinoyLogger Config file loaded !!!
+09/07/2020 11:38:46 devpinoyLogger OR file loaded !!!
+09/07/2020 11:38:52 devpinoyLogger Navigate to http://www.zoho.com
+09/07/2020 11:38:55 devpinoyLogger Click element: loginlink_CSS
+09/07/2020 11:38:55 devpinoyLogger Typing in an element: email_CSS entered value: vtolle@puppetmail.de
+09/07/2020 11:38:56 devpinoyLogger Click element: nextbtn_CSS
+09/07/2020 11:38:56 devpinoyLogger Typing in an element: password_CSS entered value: vtvtvtvt
+09/07/2020 11:38:56 devpinoyLogger Click element: nextbtn_CSS
+09/07/2020 11:39:09 devpinoyLogger Click element: crmlink_XPATH
+09/07/2020 11:39:12 devpinoyLogger Click element: account_CSS
+09/07/2020 11:39:15 devpinoyLogger Click element: createaccount_CSS
+09/07/2020 11:39:18 devpinoyLogger Typing in an element: accountname_CSS entered value: vtolle
+09/07/2020 11:39:20 devpinoyLogger ****************************************
+09/07/2020 11:39:20 devpinoyLogger *** Function SendMail is deactivated ***
+09/07/2020 11:39:20 devpinoyLogger ****************************************
+09/07/2020 11:39:20 devpinoyLogger messageBody: http://127.0.1.1:8080/job/LiveProject - PageObjectModel/Extent_20Report/

@@ -1,7 +1,5 @@
 package de.valkotolle.rough;
 
-import java.util.Hashtable;
-
 import de.valkotolle.base.Page;
 import de.valkotolle.pages.HomePage;
 import de.valkotolle.pages.LoginPage;
@@ -13,7 +11,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 
-		// This is my rough package
+		// This is my rough package !!!
 		HomePage home = new HomePage();
 		
 		LoginPage login = home.goToLogin();

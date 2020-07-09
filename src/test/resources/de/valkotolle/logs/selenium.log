@@ -1,27 +1,27 @@
-11:26:50,214 DEBUG devpinoyLogger:51 - === Setup - Test started ===
-11:26:50,232 DEBUG devpinoyLogger:62 - Config file loaded !!!
-11:26:50,234 DEBUG devpinoyLogger:77 - OR file loaded !!!
-11:26:57,309 DEBUG devpinoyLogger:134 - Navigate to http://www.zoho.com
-11:27:00,259 DEBUG devpinoyLogger:172 - Click element: loginlink_CSS
-11:27:00,829 DEBUG devpinoyLogger:188 - Typing in an element: email_CSS entered value: vtolle@puppetmail.de
-11:27:01,073 DEBUG devpinoyLogger:172 - Click element: nextbtn_CSS
-11:27:01,392 DEBUG devpinoyLogger:188 - Typing in an element: password_CSS entered value: vtvtvtvt
-11:27:01,569 DEBUG devpinoyLogger:172 - Click element: nextbtn_CSS
-11:27:01,757 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("de_DE", UTF-8, parsed); will try to load it.
-11:27:01,771 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_de_DE.ftl"): Not found
-11:27:01,798 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_de.ftl"): Not found
-11:27:01,800 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-11:27:01,801 DEBUG cache:45 - Loading template for "Extent.ftl"("de_DE", UTF-8, parsed) from "jar:file:/home/vtolle/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-11:27:15,498 DEBUG devpinoyLogger:172 - Click element: crmlink_XPATH
-11:27:18,613 DEBUG devpinoyLogger:172 - Click element: account_CSS
-11:27:20,986 DEBUG devpinoyLogger:172 - Click element: createaccount_CSS
-11:27:23,487 DEBUG devpinoyLogger:188 - Typing in an element: accountname_CSS entered value: vtolle
-11:27:23,492 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("de_DE", UTF-8, parsed); will try to load it.
-11:27:23,496 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_de_DE.ftl"): Not found
-11:27:23,497 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_de.ftl"): Not found
-11:27:23,498 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-11:27:23,498 DEBUG cache:45 - Loading template for "Extent.ftl"("de_DE", UTF-8, parsed) from "jar:file:/home/vtolle/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-11:27:24,236 DEBUG devpinoyLogger:104 - ****************************************
-11:27:24,236 DEBUG devpinoyLogger:105 - *** Function SendMail is deactivated ***
-11:27:24,239 DEBUG devpinoyLogger:106 - ****************************************
-11:27:24,239 DEBUG devpinoyLogger:107 - messageBody: http://127.0.1.1:8080/job/LiveProject - PageObjectModel/Extent_20Report/
+11:38:46,522 DEBUG devpinoyLogger:51 - === Setup - Test started ===
+11:38:46,525 DEBUG devpinoyLogger:62 - Config file loaded !!!
+11:38:46,526 DEBUG devpinoyLogger:77 - OR file loaded !!!
+11:38:52,514 DEBUG devpinoyLogger:134 - Navigate to http://www.zoho.com
+11:38:55,412 DEBUG devpinoyLogger:172 - Click element: loginlink_CSS
+11:38:55,904 DEBUG devpinoyLogger:188 - Typing in an element: email_CSS entered value: vtolle@puppetmail.de
+11:38:56,084 DEBUG devpinoyLogger:172 - Click element: nextbtn_CSS
+11:38:56,438 DEBUG devpinoyLogger:188 - Typing in an element: password_CSS entered value: vtvtvtvt
+11:38:56,600 DEBUG devpinoyLogger:172 - Click element: nextbtn_CSS
+11:38:56,665 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("de_DE", UTF-8, parsed); will try to load it.
+11:38:56,670 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_de_DE.ftl"): Not found
+11:38:56,709 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_de.ftl"): Not found
+11:38:56,714 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:38:56,717 DEBUG cache:45 - Loading template for "Extent.ftl"("de_DE", UTF-8, parsed) from "jar:file:/home/vtolle/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:39:09,889 DEBUG devpinoyLogger:172 - Click element: crmlink_XPATH
+11:39:12,555 DEBUG devpinoyLogger:172 - Click element: account_CSS
+11:39:15,841 DEBUG devpinoyLogger:172 - Click element: createaccount_CSS
+11:39:18,712 DEBUG devpinoyLogger:188 - Typing in an element: accountname_CSS entered value: vtolle
+11:39:18,792 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("de_DE", UTF-8, parsed); will try to load it.
+11:39:18,833 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_de_DE.ftl"): Not found
+11:39:18,833 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_de.ftl"): Not found
+11:39:18,834 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:39:18,838 DEBUG cache:45 - Loading template for "Extent.ftl"("de_DE", UTF-8, parsed) from "jar:file:/home/vtolle/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:39:20,444 DEBUG devpinoyLogger:104 - ****************************************
+11:39:20,445 DEBUG devpinoyLogger:105 - *** Function SendMail is deactivated ***
+11:39:20,447 DEBUG devpinoyLogger:106 - ****************************************
+11:39:20,447 DEBUG devpinoyLogger:107 - messageBody: http://127.0.1.1:8080/job/LiveProject - PageObjectModel/Extent_20Report/
